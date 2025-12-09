@@ -1,0 +1,4 @@
+﻿  NFA to DFA.cpp
+C:\Users\Dell\source\repos\NFA to DFA\NFA to DFA\NFA to DFA.cpp(65,17): warning C4566: character represented by universal-character-name '\u03B4' cannot be represented in the current code page (1256)
+C:\Users\Dell\source\repos\NFA to DFA\NFA to DFA\NFA to DFA.cpp(99,25): warning C4566: character represented by universal-character-name '\u2205' cannot be represented in the current code page (1256)
+  NFA to DFA.vcxproj -> C:\Users\Dell\source\repos\NFA to DFA\x64\Debug\NFA to DFA.exe
