@@ -51,7 +51,7 @@ The program displays:
    - Add new states to the queue if not yet visited
 3. Mark DFA states as final if they contain any NFA final state
 
-## Data Structures:
+## Data Structures
 
 - `vector<map<char, set<int>>> nfa` - NFA transition table
 - `set<set<int>> visited` - Tracks processed DFA states
